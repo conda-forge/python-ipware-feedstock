@@ -1,5 +1,5 @@
 {% set name = "python-ipware" %}
-{% set version = "2.0.2" %}
+{% set version = "2.0.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/python-ipware-{{ version }}.tar.gz
-  sha256: 86e30cc3af62cec42284dedd49c8a14e436e73c96433c8645ec0b476ff4ad7ec
+  sha256: 70cde60542294432eb176ca739a7bad81499dfc6c8d888e5ed3c486f313de090
 
 build:
   noarch: python
