@@ -7,7 +7,7 @@ Home: https://pypi.org/project/python-ipware/
 
 Package license: MIT
 
-Summary: A Python package to retrieve user's IP address
+Summary: A Python package to retrieve users IP address
 
 Development: https://github.com/un33k/python-ipware
 
