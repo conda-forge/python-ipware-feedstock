@@ -1,6 +1,7 @@
 {% set name = "python-ipware" %}
 {% set version = "2.0.4" %}
 
+
 package:
   name: {{ name|lower }}
   version: {{ version }}
@@ -32,7 +33,7 @@ test:
     - pip
 
 about:
-  summary: A Python package to retrieve user's IP address
+  summary: A Python package to retrieve users IP address
   dev_url: https://github.com/un33k/python-ipware
   home: https://pypi.org/project/python-ipware/
   license: MIT
